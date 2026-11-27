@@ -125,8 +125,8 @@ git branch -d feature/first-pr
 
 ## 5. 练习签到
 
-- [ ] 我成功切出了分支
-- [ ] 我提交了改动并 push 到远端
+- [x] 我成功切出了分支
+- [x] 我提交了改动并 push 到远端
 - [ ] 我发出了第一个 Pull Request
 - [ ] 我把它合并进了 main
 
